@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\ProjectNFC\\NFCiCodeReadA01\\build\\intermediates\\res\\merged\\debug\\raw\\gtm_analytics",
+        "source": "C:\\Users\\project\\.android\\build-cache\\fbc6df7e7655924d82e14854cf121becd422fdd0\\output\\res\\raw\\gtm_analytics"
+    },
+    {
+        "merged": "C:\\ReadNFC\\build\\intermediates\\res\\merged\\debug\\raw\\gtm_analytics",
+        "source": "C:\\Users\\project\\.android\\build-cache\\57104c963a6503aa8162c8a3f140f41dd7669335\\output\\res\\raw\\gtm_analytics"
+    },
+    {
+        "merged": "C:\\ProjectNFC\\ReadNFC\\build\\intermediates\\res\\merged\\debug\\raw\\gtm_analytics",
+        "source": "C:\\Users\\project\\.android\\build-cache\\57104c963a6503aa8162c8a3f140f41dd7669335\\output\\res\\raw\\gtm_analytics"
+    },
+    {
+        "merged": "C:\\NFC ICE04\\ReadNFC\\build\\intermediates\\res\\merged\\debug\\raw\\gtm_analytics",
+        "source": "C:\\Users\\User\\.android\\build-cache\\43fca2e2da1b94b30d9eda358380953cf721f03c\\output\\res\\raw\\gtm_analytics"
+    },
+    {
+        "merged": "C:\\NFC ICE04\\NFCiCodeReadA01\\build\\intermediates\\res\\merged\\debug\\raw\\gtm_analytics",
+        "source": "C:\\Users\\User\\.android\\build-cache\\e92cc4f7c17e9c2a89615c8a5336f05a6a1bce53\\output\\res\\raw\\gtm_analytics"
+    }
+]

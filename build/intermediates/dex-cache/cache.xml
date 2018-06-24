@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\ReadNFC\libs\prov-1.54.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2761c67fdffa21ffcd73cfb8c3acd52ca8866694">
+        <dex dex="C:\ReadNFC\build\intermediates\pre-dexed\debug\prov-1.54.0.0_fe0702f2f6927f4167788084e528fa1ef3309adc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\project\.android\build-cache\63d5dc0dd4d707b8ed106362874f54aff50d1d3d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="287f4dec8dc2d40a238b12562b437438499cd2fb">
+        <dex dex="C:\ReadNFC\build\intermediates\pre-dexed\debug\classes_0b848455d2ae16abf6e24d0e6f28f850c7d14d4d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\project\.android\build-cache\327237c474a6aeaa0216140f007583150d065432\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b8b26b28aae0ba8e2db55ad9fe0ebc770530c5ef">
+        <dex dex="C:\ReadNFC\build\intermediates\pre-dexed\debug\classes_fd4c06dfca0b7a57af7159e66752452c6e5380e4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\ReadNFC\libs\pkix-1.54.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="183d77545a164f8fcf5a88b27af1f33670004eb6">
+        <dex dex="C:\ReadNFC\build\intermediates\pre-dexed\debug\pkix-1.54.0.0_be1377f9f6d028e65aa1073fed09980df2835f0e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\project\.android\build-cache\2c039f010045a912e97cf668159deeaed74185be\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2482bfd874e8b3927f4141105674ad392ff83698">
+        <dex dex="C:\ReadNFC\build\intermediates\pre-dexed\debug\classes_55025a163a77285c042a8523198bdc6af6286e79.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\ReadNFC\libs\core-1.54.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="de79c5f8c67234f0d0073e00ed1f3bab0e5d1e67">
+        <dex dex="C:\ReadNFC\build\intermediates\pre-dexed\debug\core-1.54.0.0_b5ebd48d33de6045846b85fe88f05ecb570fc61c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\project\.android\build-cache\5ceee8c5e61f1a11f53b0461156e2baa6e8c2841\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="53e8932b1ac8c7dfc35cfeda1f9efbc9822ceaf3">
+        <dex dex="C:\ReadNFC\build\intermediates\pre-dexed\debug\classes_056e8e7b4c1d068aaa904d822bf81b0c5d02a8bd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\project\.android\build-cache\9ccfdf41cb1f6b1a6088fa4a957bc171101bd76e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="dc83ab7a5ce1e0296cf18a52a6edbcfef815e6cf">
+        <dex dex="C:\ReadNFC\build\intermediates\pre-dexed\debug\classes_e59d9d675764ade6ed4847f0fbd54eae2dc6070d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\project\.android\build-cache\55b56724a87133d97dcdb03ceadba102e3131f19\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="82ea5a937ab84229fbd2f3fc8cf2a72cbdf0ee0f">
+        <dex dex="C:\ReadNFC\build\intermediates\pre-dexed\debug\classes_bc71dce6e6af9edab270641b7d66d92094a99ff6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\project\.android\build-cache\d7331c6190a89282ad7b99f4b1afbf30ffaec0ee\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0d394688dd7030b83dea8eed3fa483410c24afe0">
+        <dex dex="C:\ReadNFC\build\intermediates\pre-dexed\debug\classes_f75c7fc55b90026982ba971f6a1142f9bc0eaedd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\project\.android\build-cache\85ee468f7f10938078602497fab57c695957cb80\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ab6e491b5d7bda2f47991a30f6bfe9a8b134ff8b">
+        <dex dex="C:\ReadNFC\build\intermediates\pre-dexed\debug\classes_468bc02253b827c5ff2955369dae3ffa6e3bb286.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,69 @@
+buildscript {
+
+    repositories {
+        jcenter()
+    }
+
+    dependencies {
+       classpath 'com.android.tools.build:gradle:2.3.2'
+        // NOTE: Do not place your application dependencies here; they belong
+        // in the individual module build.gradle files
+    }
+}
+
+
+
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 25
+    buildToolsVersion '25.0.2'
+
+    defaultConfig {
+        applicationId "com.NFCiCodeRead"
+        minSdkVersion 21
+        targetSdkVersion 25
+    }
+
+    packagingOptions {
+        exclude 'META-INF/LICENSE.txt'
+        exclude 'META-INF/NOTICE.txt'
+    }
+
+    dexOptions {
+        jumboMode true
+    }
+}
+repositories{
+    flatDir{
+        dirs 'libs'
+    }
+    /** Following lines are for accessing the TapLinx jars from Repo directly */
+    maven {
+        credentials {
+            username "sdkuser"
+            password "taplinx"
+        }
+	url "http://maven.taplinx.nxp.com/nexus/content/repositories/taplinx/"
+	}
+    mavenCentral()
+}
+
+dependencies {
+   compile 'com.android.support:appcompat-v7:25.3.1'
+   compile 'com.android.support:design:25.3.1'
+   compile files('libs/core-1.54.0.0.jar')
+   compile files('libs/prov-1.54.0.0.jar')
+   compile files('libs/pkix-1.54.0.0.jar')
+   compile ('taplinx-android:nxpnfcandroidlib:1.0@aar'){
+	 transitive = true
+   }
+    compile 'com.facebook.android:facebook-android-sdk:[4,5)'
+    compile 'com.android.support.constraint:constraint-layout:1.0.2'
+}
+
+allprojects {
+    repositories {
+        jcenter()
+    }
+}

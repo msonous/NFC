@@ -1,0 +1,122 @@
+[
+    {
+        "merged": "C:\\ProjectNFC\\ReadNFC\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_narrow_custom.xml",
+        "source": "C:\\Users\\project\\.android\\build-cache\\81973e0e58b419f04c73bfb2bcfcae94bd394f08\\output\\res\\layout-v11\\notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "C:\\ReadNFC\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_narrow.xml",
+        "source": "C:\\Users\\project\\.android\\build-cache\\81973e0e58b419f04c73bfb2bcfcae94bd394f08\\output\\res\\layout-v11\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "C:\\ProjectNFC\\ReadNFC\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media.xml",
+        "source": "C:\\Users\\project\\.android\\build-cache\\81973e0e58b419f04c73bfb2bcfcae94bd394f08\\output\\res\\layout-v11\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "C:\\NFC ICE04\\ReadNFC\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_media_cancel_action.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\a42215822c3db8dc39f3ba3213cb8624c3dafe2f\\output\\res\\layout-v11\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "C:\\ProjectNFC\\NFCiCodeReadA01\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_media_cancel_action.xml",
+        "source": "C:\\Users\\project\\.android\\build-cache\\84bb9cee67b7a962896bfc1bea89c49c98b9b281\\output\\res\\layout-v11\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "C:\\NFC ICE04\\ReadNFC\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_narrow.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\a42215822c3db8dc39f3ba3213cb8624c3dafe2f\\output\\res\\layout-v11\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "C:\\NFC ICE04\\NFCiCodeReadA01\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_media_cancel_action.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\a42215822c3db8dc39f3ba3213cb8624c3dafe2f\\output\\res\\layout-v11\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "C:\\ProjectNFC\\ReadNFC\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_narrow.xml",
+        "source": "C:\\Users\\project\\.android\\build-cache\\81973e0e58b419f04c73bfb2bcfcae94bd394f08\\output\\res\\layout-v11\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "C:\\ProjectNFC\\ReadNFC\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_custom.xml",
+        "source": "C:\\Users\\project\\.android\\build-cache\\81973e0e58b419f04c73bfb2bcfcae94bd394f08\\output\\res\\layout-v11\\notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "C:\\ReadNFC\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_media_cancel_action.xml",
+        "source": "C:\\Users\\project\\.android\\build-cache\\81973e0e58b419f04c73bfb2bcfcae94bd394f08\\output\\res\\layout-v11\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "C:\\ProjectNFC\\NFCiCodeReadA01\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_media_action.xml",
+        "source": "C:\\Users\\project\\.android\\build-cache\\84bb9cee67b7a962896bfc1bea89c49c98b9b281\\output\\res\\layout-v11\\notification_media_action.xml"
+    },
+    {
+        "merged": "C:\\NFC ICE04\\ReadNFC\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_custom.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\a42215822c3db8dc39f3ba3213cb8624c3dafe2f\\output\\res\\layout-v11\\notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "C:\\ProjectNFC\\NFCiCodeReadA01\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_custom.xml",
+        "source": "C:\\Users\\project\\.android\\build-cache\\84bb9cee67b7a962896bfc1bea89c49c98b9b281\\output\\res\\layout-v11\\notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "C:\\NFC ICE04\\ReadNFC\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_media_action.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\a42215822c3db8dc39f3ba3213cb8624c3dafe2f\\output\\res\\layout-v11\\notification_media_action.xml"
+    },
+    {
+        "merged": "C:\\ProjectNFC\\NFCiCodeReadA01\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_narrow_custom.xml",
+        "source": "C:\\Users\\project\\.android\\build-cache\\84bb9cee67b7a962896bfc1bea89c49c98b9b281\\output\\res\\layout-v11\\notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "C:\\ReadNFC\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_custom.xml",
+        "source": "C:\\Users\\project\\.android\\build-cache\\81973e0e58b419f04c73bfb2bcfcae94bd394f08\\output\\res\\layout-v11\\notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "C:\\ProjectNFC\\ReadNFC\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_media_action.xml",
+        "source": "C:\\Users\\project\\.android\\build-cache\\81973e0e58b419f04c73bfb2bcfcae94bd394f08\\output\\res\\layout-v11\\notification_media_action.xml"
+    },
+    {
+        "merged": "C:\\NFC ICE04\\NFCiCodeReadA01\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_custom.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\a42215822c3db8dc39f3ba3213cb8624c3dafe2f\\output\\res\\layout-v11\\notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "C:\\ProjectNFC\\ReadNFC\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_media_cancel_action.xml",
+        "source": "C:\\Users\\project\\.android\\build-cache\\81973e0e58b419f04c73bfb2bcfcae94bd394f08\\output\\res\\layout-v11\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "C:\\ReadNFC\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media.xml",
+        "source": "C:\\Users\\project\\.android\\build-cache\\81973e0e58b419f04c73bfb2bcfcae94bd394f08\\output\\res\\layout-v11\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "C:\\ProjectNFC\\NFCiCodeReadA01\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media.xml",
+        "source": "C:\\Users\\project\\.android\\build-cache\\84bb9cee67b7a962896bfc1bea89c49c98b9b281\\output\\res\\layout-v11\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "C:\\NFC ICE04\\NFCiCodeReadA01\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_narrow.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\a42215822c3db8dc39f3ba3213cb8624c3dafe2f\\output\\res\\layout-v11\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "C:\\ProjectNFC\\NFCiCodeReadA01\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_narrow.xml",
+        "source": "C:\\Users\\project\\.android\\build-cache\\84bb9cee67b7a962896bfc1bea89c49c98b9b281\\output\\res\\layout-v11\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "C:\\ReadNFC\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_media_action.xml",
+        "source": "C:\\Users\\project\\.android\\build-cache\\81973e0e58b419f04c73bfb2bcfcae94bd394f08\\output\\res\\layout-v11\\notification_media_action.xml"
+    },
+    {
+        "merged": "C:\\NFC ICE04\\ReadNFC\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_narrow_custom.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\a42215822c3db8dc39f3ba3213cb8624c3dafe2f\\output\\res\\layout-v11\\notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "C:\\NFC ICE04\\ReadNFC\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\a42215822c3db8dc39f3ba3213cb8624c3dafe2f\\output\\res\\layout-v11\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "C:\\ReadNFC\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_narrow_custom.xml",
+        "source": "C:\\Users\\project\\.android\\build-cache\\81973e0e58b419f04c73bfb2bcfcae94bd394f08\\output\\res\\layout-v11\\notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "C:\\NFC ICE04\\NFCiCodeReadA01\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_media_action.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\a42215822c3db8dc39f3ba3213cb8624c3dafe2f\\output\\res\\layout-v11\\notification_media_action.xml"
+    },
+    {
+        "merged": "C:\\NFC ICE04\\NFCiCodeReadA01\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_narrow_custom.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\a42215822c3db8dc39f3ba3213cb8624c3dafe2f\\output\\res\\layout-v11\\notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "C:\\NFC ICE04\\NFCiCodeReadA01\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\a42215822c3db8dc39f3ba3213cb8624c3dafe2f\\output\\res\\layout-v11\\notification_template_big_media.xml"
+    }
+]
