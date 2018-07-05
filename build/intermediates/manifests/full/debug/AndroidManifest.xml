@@ -26,9 +26,10 @@
         android:smallScreens="true"
         android:xlargeScreens="true" />
 
-    <provider
+    <application
         android:name="com.facebook.FacebookContentProvider"
         android:authorities="com.facebook.app.FacebookContentProvider1847976455451935"
+        android:debuggable="true"
         android:exported="true" />
 
     <meta-data
@@ -74,6 +75,13 @@
             android:name="com.facebook.sdk.ApplicationId"
             android:value="@string/facebook_app_id" />
 
+        <activity
+            android:name="com.facebook.FacebookActivity"
+            android:configChanges="keyboard|keyboardHidden|screenLayout|screenSize|orientation"
+            android:theme="@style/com_facebook_activity_theme" />
+        <activity android:name="com.facebook.CustomTabMainActivity" />
+        <activity android:name="com.facebook.CustomTabActivity" />
+
         <receiver
             android:name="com.google.android.gms.analytics.AnalyticsReceiver"
             android:enabled="true" >
@@ -100,15 +108,10 @@
 
         <service android:name="com.google.android.gms.analytics.CampaignTrackingService" />
 
-        <meta-data
-            android:name="com.google.android.gms.version"
-            android:value="@integer/google_play_services_version" />
-
-        <activity
-            android:name="com.facebook.FacebookActivity"
-            android:configChanges="keyboard|keyboardHidden|screenLayout|screenSize|orientation"
-            android:theme="@style/com_facebook_activity_theme" />
-        <activity android:name="com.facebook.CustomTabMainActivity" />
+        <provider
+            android:name="com.facebook.marketing.internal.MarketingInitProvider"
+            android:authorities="com.NFCiCodeRead.MarketingInitProvider"
+            android:exported="false" />
         <!--
          The initialization ContentProvider will call FacebookSdk.sdkInitialize automatically
          with the application context. This config is merged in with the host app's manifest,
@@ -122,6 +125,18 @@
             android:name="com.facebook.internal.FacebookInitProvider"
             android:authorities="com.NFCiCodeRead.FacebookInitProvider"
             android:exported="false" />
+
+        <receiver
+            android:name="com.facebook.CurrentAccessTokenExpirationBroadcastReceiver"
+            android:exported="false" >
+            <intent-filter>
+                <action android:name="com.facebook.sdk.ACTION_CURRENT_ACCESS_TOKEN_CHANGED" />
+            </intent-filter>
+        </receiver>
+
+        <meta-data
+            android:name="com.google.android.gms.version"
+            android:value="@integer/google_play_services_version" />
     </application>
 
 </manifest>

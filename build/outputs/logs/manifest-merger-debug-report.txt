@@ -1,285 +1,376 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\ReadNFC\src\main\AndroidManifest.xml:2:1-68:12
+ADDED from C:\Users\moo\Desktop\Code\ReadNFC\src\main\AndroidManifest.xml:2:1-68:12
+INJECTED from C:\Users\moo\Desktop\Code\ReadNFC\src\main\AndroidManifest.xml:2:1-68:12
+INJECTED from C:\Users\moo\Desktop\Code\ReadNFC\src\main\AndroidManifest.xml:2:1-68:12
+INJECTED from C:\Users\moo\Desktop\Code\ReadNFC\src\main\AndroidManifest.xml:2:1-68:12
+MERGED from [com.android.support:design:25.3.1] C:\Users\moo\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\51dafbcc774ddaf34b5b85040e3bf9bc\AndroidManifest.xml:17:1-31:12
+MERGED from [com.facebook.android:facebook-android-sdk:4.34.0] C:\Users\moo\.gradle\caches\transforms-1\files-1.1\facebook-android-sdk-4.34.0.aar\18ea92e28b88118f01c90cdb63a6fa02\AndroidManifest.xml:21:1-31:12
+MERGED from [com.facebook.android:facebook-login:4.34.0] C:\Users\moo\.gradle\caches\transforms-1\files-1.1\facebook-login-4.34.0.aar\81349d5d393c997f0b693d565f615e6c\AndroidManifest.xml:21:1-31:12
+MERGED from [com.facebook.android:facebook-share:4.34.0] C:\Users\moo\.gradle\caches\transforms-1\files-1.1\facebook-share-4.34.0.aar\45e6b20afd9919e7df2fd27074b224ae\AndroidManifest.xml:21:1-31:12
+MERGED from [com.facebook.android:facebook-common:4.34.0] C:\Users\moo\.gradle\caches\transforms-1\files-1.1\facebook-common-4.34.0.aar\ac556eb2275f996f4b45c789a493629a\AndroidManifest.xml:21:1-37:12
+MERGED from [com.android.support:appcompat-v7:27.0.2] C:\Users\moo\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.2.aar\f4b2b044bdb073a3b8f788cacef0c757\AndroidManifest.xml:17:1-22:12
+MERGED from [taplinx-android:nxpnfcandroidlib:1.0] C:\Users\moo\.gradle\caches\transforms-1\files-1.1\nxpnfcandroidlib-1.0.aar\2a4916e60b477427eb914eb1405a2ff1\AndroidManifest.xml:2:1-45:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\moo\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\cba64b704a3f3e299e8e42f32127dc7c\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\moo\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-25.3.1.aar\740de3a90351e4d6c68e7477594a4162\AndroidManifest.xml:17:1-26:12
+MERGED from [com.android.support:transition:25.3.1] C:\Users\moo\.gradle\caches\transforms-1\files-1.1\transition-25.3.1.aar\25da5b657c386b22dd69fe0f54abb78e\AndroidManifest.xml:17:1-28:12
+MERGED from [com.facebook.android:facebook-places:4.34.0] C:\Users\moo\.gradle\caches\transforms-1\files-1.1\facebook-places-4.34.0.aar\81afef0915d4c415d1bdfc7ea183a93f\AndroidManifest.xml:21:1-31:12
+MERGED from [com.facebook.android:facebook-applinks:4.34.0] C:\Users\moo\.gradle\caches\transforms-1\files-1.1\facebook-applinks-4.34.0.aar\06af89ad0fe90b4275b5d0b2183ce75f\AndroidManifest.xml:21:1-31:12
+MERGED from [com.facebook.android:facebook-messenger:4.34.0] C:\Users\moo\.gradle\caches\transforms-1\files-1.1\facebook-messenger-4.34.0.aar\106c56e39ff6f4c7f255fee73cffb464\AndroidManifest.xml:21:1-31:12
+MERGED from [com.facebook.android:facebook-marketing:4.34.0] C:\Users\moo\.gradle\caches\transforms-1\files-1.1\facebook-marketing-4.34.0.aar\37914a93749f8c4905156fb2149a7837\AndroidManifest.xml:21:1-35:12
+MERGED from [com.facebook.android:facebook-core:4.34.0] C:\Users\moo\.gradle\caches\transforms-1\files-1.1\facebook-core-4.34.0.aar\e2f81d47a4cb0a2077781cd08614099f\AndroidManifest.xml:21:1-53:12
+MERGED from [com.android.support:cardview-v7:27.0.2] C:\Users\moo\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.0.2.aar\bfc3ea6a2cec77fccd832a3ddeea593d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customtabs:27.0.2] C:\Users\moo\.gradle\caches\transforms-1\files-1.1\customtabs-27.0.2.aar\5c2708f0df024a003d0bf2ad51f955f4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] C:\Users\moo\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.2.aar\41e6459275c01338c12c3b8ae1e6fff9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.0.2] C:\Users\moo\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.2.aar\f4557c9104ce8703f2cffd4fda4019cc\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-analytics:8.3.0] C:\Users\moo\.gradle\caches\transforms-1\files-1.1\play-services-analytics-8.3.0.aar\c1c98cc56a3451edcfc94548b58c3acd\AndroidManifest.xml:16:1-25:12
+MERGED from [com.google.android.gms:play-services-basement:8.3.0] C:\Users\moo\.gradle\caches\transforms-1\files-1.1\play-services-basement-8.3.0.aar\5c7d2862c217f5e45677855b236019fd\AndroidManifest.xml:16:1-26:12
+MERGED from [com.android.support:support-v4:27.0.2] C:\Users\moo\.gradle\caches\transforms-1\files-1.1\support-v4-27.0.2.aar\d92b334f3d0cd339e6713f05faa0d2c7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.0.2] C:\Users\moo\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.2.aar\752faf6f785963c70e4775a4153739f6\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.0.2] C:\Users\moo\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.2.aar\85b1dce4d1dcd75797deb019c671c795\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.0.2] C:\Users\moo\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.2.aar\7ae59fbf94b1d506e02f65789bf5bb16\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.0.2] C:\Users\moo\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.0.2.aar\eda45193657bd8cb1d7dcf9138cb6d83\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.0.2] C:\Users\moo\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.2.aar\88a911c05433cc85e75e75ad90b9954b\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\moo\.gradle\caches\transforms-1\files-1.1\runtime-1.0.3.aar\46e63bdd033bc18c8446852c6a43320a\AndroidManifest.xml:17:1-24:12
+INJECTED from C:\Users\moo\Desktop\Code\ReadNFC\src\main\AndroidManifest.xml:2:1-68:12
+INJECTED from C:\Users\moo\Desktop\Code\ReadNFC\src\main\AndroidManifest.xml:2:1-68:12
+INJECTED from C:\Users\moo\Desktop\Code\ReadNFC\src\main\AndroidManifest.xml:2:1-68:12
 	package
-		ADDED from C:\ReadNFC\src\main\AndroidManifest.xml:3:5-31
-		INJECTED from C:\ReadNFC\src\main\AndroidManifest.xml
-		INJECTED from C:\ReadNFC\src\main\AndroidManifest.xml
+		ADDED from C:\Users\moo\Desktop\Code\ReadNFC\src\main\AndroidManifest.xml:3:5-31
+		INJECTED from C:\Users\moo\Desktop\Code\ReadNFC\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\moo\Desktop\Code\ReadNFC\src\main\AndroidManifest.xml
 	android:versionName
-		ADDED from C:\ReadNFC\src\main\AndroidManifest.xml:5:5-28
-		INJECTED from C:\ReadNFC\src\main\AndroidManifest.xml
-		INJECTED from C:\ReadNFC\src\main\AndroidManifest.xml
+		ADDED from C:\Users\moo\Desktop\Code\ReadNFC\src\main\AndroidManifest.xml:5:5-28
+		INJECTED from C:\Users\moo\Desktop\Code\ReadNFC\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\moo\Desktop\Code\ReadNFC\src\main\AndroidManifest.xml
 	xmlns:tools
-		ADDED from C:\ReadNFC\src\main\AndroidManifest.xml:6:5-51
-	android:versionCode
-		ADDED from C:\ReadNFC\src\main\AndroidManifest.xml:4:5-28
-		INJECTED from C:\ReadNFC\src\main\AndroidManifest.xml
-		INJECTED from C:\ReadNFC\src\main\AndroidManifest.xml
+		ADDED from C:\Users\moo\Desktop\Code\ReadNFC\src\main\AndroidManifest.xml:6:5-51
 	xmlns:android
-		ADDED from C:\ReadNFC\src\main\AndroidManifest.xml:2:11-69
+		ADDED from C:\Users\moo\Desktop\Code\ReadNFC\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from C:\Users\moo\Desktop\Code\ReadNFC\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from C:\Users\moo\Desktop\Code\ReadNFC\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\moo\Desktop\Code\ReadNFC\src\main\AndroidManifest.xml
 uses-permission#android.permission.CALL_PHONE
-ADDED from C:\ReadNFC\src\main\AndroidManifest.xml:8:5-69
+ADDED from C:\Users\moo\Desktop\Code\ReadNFC\src\main\AndroidManifest.xml:8:5-69
 	android:name
-		ADDED from C:\ReadNFC\src\main\AndroidManifest.xml:8:22-66
+		ADDED from C:\Users\moo\Desktop\Code\ReadNFC\src\main\AndroidManifest.xml:8:22-66
 uses-permission#android.permission.NFC
-ADDED from C:\ReadNFC\src\main\AndroidManifest.xml:9:5-62
-MERGED from [taplinx-android:nxpnfcandroidlib:1.0] C:\Users\project\.android\build-cache\61e26e0454ddea0416088b757b32537259f02ff7\output\AndroidManifest.xml:11:5-62
+ADDED from C:\Users\moo\Desktop\Code\ReadNFC\src\main\AndroidManifest.xml:9:5-62
+MERGED from [taplinx-android:nxpnfcandroidlib:1.0] C:\Users\moo\.gradle\caches\transforms-1\files-1.1\nxpnfcandroidlib-1.0.aar\2a4916e60b477427eb914eb1405a2ff1\AndroidManifest.xml:11:5-62
+MERGED from [taplinx-android:nxpnfcandroidlib:1.0] C:\Users\moo\.gradle\caches\transforms-1\files-1.1\nxpnfcandroidlib-1.0.aar\2a4916e60b477427eb914eb1405a2ff1\AndroidManifest.xml:11:5-62
 	android:name
-		ADDED from C:\ReadNFC\src\main\AndroidManifest.xml:9:22-59
+		ADDED from C:\Users\moo\Desktop\Code\ReadNFC\src\main\AndroidManifest.xml:9:22-59
 uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
-ADDED from C:\ReadNFC\src\main\AndroidManifest.xml:10:5-81
+ADDED from C:\Users\moo\Desktop\Code\ReadNFC\src\main\AndroidManifest.xml:10:5-81
 	android:name
-		ADDED from C:\ReadNFC\src\main\AndroidManifest.xml:10:22-78
+		ADDED from C:\Users\moo\Desktop\Code\ReadNFC\src\main\AndroidManifest.xml:10:22-78
 uses-permission#android.permission.INTERNET
-ADDED from C:\ReadNFC\src\main\AndroidManifest.xml:11:5-67
-MERGED from [com.google.android.gms:play-services-analytics:8.3.0] C:\Users\project\.android\build-cache\57104c963a6503aa8162c8a3f140f41dd7669335\output\AndroidManifest.xml:21:5-67
+ADDED from C:\Users\moo\Desktop\Code\ReadNFC\src\main\AndroidManifest.xml:11:5-67
+MERGED from [com.google.android.gms:play-services-analytics:8.3.0] C:\Users\moo\.gradle\caches\transforms-1\files-1.1\play-services-analytics-8.3.0.aar\c1c98cc56a3451edcfc94548b58c3acd\AndroidManifest.xml:21:5-67
+MERGED from [com.google.android.gms:play-services-analytics:8.3.0] C:\Users\moo\.gradle\caches\transforms-1\files-1.1\play-services-analytics-8.3.0.aar\c1c98cc56a3451edcfc94548b58c3acd\AndroidManifest.xml:21:5-67
 	android:name
-		ADDED from C:\ReadNFC\src\main\AndroidManifest.xml:11:22-64
+		ADDED from C:\Users\moo\Desktop\Code\ReadNFC\src\main\AndroidManifest.xml:11:22-64
 uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from C:\ReadNFC\src\main\AndroidManifest.xml:12:5-79
-MERGED from [com.google.android.gms:play-services-analytics:8.3.0] C:\Users\project\.android\build-cache\57104c963a6503aa8162c8a3f140f41dd7669335\output\AndroidManifest.xml:22:5-79
+ADDED from C:\Users\moo\Desktop\Code\ReadNFC\src\main\AndroidManifest.xml:12:5-79
+MERGED from [com.google.android.gms:play-services-analytics:8.3.0] C:\Users\moo\.gradle\caches\transforms-1\files-1.1\play-services-analytics-8.3.0.aar\c1c98cc56a3451edcfc94548b58c3acd\AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.gms:play-services-analytics:8.3.0] C:\Users\moo\.gradle\caches\transforms-1\files-1.1\play-services-analytics-8.3.0.aar\c1c98cc56a3451edcfc94548b58c3acd\AndroidManifest.xml:22:5-79
 	android:name
-		ADDED from C:\ReadNFC\src\main\AndroidManifest.xml:12:22-76
+		ADDED from C:\Users\moo\Desktop\Code\ReadNFC\src\main\AndroidManifest.xml:12:22-76
 uses-feature#android.hardware.nfc
-ADDED from C:\ReadNFC\src\main\AndroidManifest.xml:15:5-17:35
+ADDED from C:\Users\moo\Desktop\Code\ReadNFC\src\main\AndroidManifest.xml:15:5-17:35
 	android:required
-		ADDED from C:\ReadNFC\src\main\AndroidManifest.xml:17:9-32
+		ADDED from C:\Users\moo\Desktop\Code\ReadNFC\src\main\AndroidManifest.xml:17:9-32
 	android:name
-		ADDED from C:\ReadNFC\src\main\AndroidManifest.xml:16:9-44
+		ADDED from C:\Users\moo\Desktop\Code\ReadNFC\src\main\AndroidManifest.xml:16:9-44
 supports-screens
-ADDED from C:\ReadNFC\src\main\AndroidManifest.xml:19:5-25:40
+ADDED from C:\Users\moo\Desktop\Code\ReadNFC\src\main\AndroidManifest.xml:19:5-25:40
 	android:largeScreens
-		ADDED from C:\ReadNFC\src\main\AndroidManifest.xml:21:9-36
+		ADDED from C:\Users\moo\Desktop\Code\ReadNFC\src\main\AndroidManifest.xml:21:9-36
 	android:smallScreens
-		ADDED from C:\ReadNFC\src\main\AndroidManifest.xml:24:9-36
+		ADDED from C:\Users\moo\Desktop\Code\ReadNFC\src\main\AndroidManifest.xml:24:9-36
 	android:normalScreens
-		ADDED from C:\ReadNFC\src\main\AndroidManifest.xml:22:9-37
+		ADDED from C:\Users\moo\Desktop\Code\ReadNFC\src\main\AndroidManifest.xml:22:9-37
 	android:xlargeScreens
-		ADDED from C:\ReadNFC\src\main\AndroidManifest.xml:25:9-37
+		ADDED from C:\Users\moo\Desktop\Code\ReadNFC\src\main\AndroidManifest.xml:25:9-37
 	android:resizeable
-		ADDED from C:\ReadNFC\src\main\AndroidManifest.xml:23:9-35
+		ADDED from C:\Users\moo\Desktop\Code\ReadNFC\src\main\AndroidManifest.xml:23:9-35
 	android:anyDensity
-		ADDED from C:\ReadNFC\src\main\AndroidManifest.xml:20:9-34
+		ADDED from C:\Users\moo\Desktop\Code\ReadNFC\src\main\AndroidManifest.xml:20:9-34
 application
-ADDED from C:\ReadNFC\src\main\AndroidManifest.xml:27:5-62:19
-MERGED from [com.android.support:design:25.3.1] C:\Users\project\.android\build-cache\954312de0b9279afe77c888c3dc1fc747b4a854b\output\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:transition:25.3.1] C:\Users\project\.android\build-cache\d4fbfb4f828fea009ea28d418f77f9f28e9ec1ad\output\AndroidManifest.xml:26:5-20
-MERGED from [taplinx-android:nxpnfcandroidlib:1.0] C:\Users\project\.android\build-cache\61e26e0454ddea0416088b757b32537259f02ff7\output\AndroidManifest.xml:13:5-43:19
-MERGED from [com.google.android.gms:play-services-analytics:8.3.0] C:\Users\project\.android\build-cache\57104c963a6503aa8162c8a3f140f41dd7669335\output\AndroidManifest.xml:24:5-20
-MERGED from [com.google.android.gms:play-services-basement:8.3.0] C:\Users\project\.android\build-cache\6c70025706924039fe0fa1c9e1818d6e067588cd\output\AndroidManifest.xml:20:5-24:19
-MERGED from [com.facebook.android:facebook-android-sdk:4.28.0] C:\Users\project\.android\build-cache\5ceee8c5e61f1a11f53b0461156e2baa6e8c2841\output\AndroidManifest.xml:28:5-29:19
-MERGED from [com.facebook.android:facebook-login:4.28.0] C:\Users\project\.android\build-cache\327237c474a6aeaa0216140f007583150d065432\output\AndroidManifest.xml:28:5-29:19
-MERGED from [com.facebook.android:facebook-share:4.28.0] C:\Users\project\.android\build-cache\9ccfdf41cb1f6b1a6088fa4a957bc171101bd76e\output\AndroidManifest.xml:28:5-29:19
-MERGED from [com.facebook.android:facebook-common:4.28.0] C:\Users\project\.android\build-cache\63d5dc0dd4d707b8ed106362874f54aff50d1d3d\output\AndroidManifest.xml:28:5-34:19
-MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\project\.android\build-cache\81973e0e58b419f04c73bfb2bcfcae94bd394f08\output\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\project\.android\build-cache\da5bb750869e652941b26aaf40ea3942308d4907\output\AndroidManifest.xml:26:5-20
-MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\project\.android\build-cache\a564275019d7d75b52d8bf98d27cc5b01f5804c0\output\AndroidManifest.xml:26:5-20
-MERGED from [com.android.support:cardview-v7:25.3.1] C:\Users\project\.android\build-cache\2fdc5a9c35a49e795e2d35b40bc24781389c5cb3\output\AndroidManifest.xml:26:5-20
-MERGED from [com.android.support:customtabs:25.3.1] C:\Users\project\.android\build-cache\e3e2779c2cc26c7674447e4b826137c2338d88fd\output\AndroidManifest.xml:26:5-20
-MERGED from [com.android.support:support-v4:25.3.1] C:\Users\project\.android\build-cache\a04a75bf9dbaf6eb2308d4e0c280eb84cd580aae\output\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\project\.android\build-cache\56aa138fb9b76dbac0a2a1f739ee69ff3a184c42\output\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\project\.android\build-cache\a06172d06bdac4b2c6630872fb7400104e876821\output\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\project\.android\build-cache\b57c774d7e03febdd9c9ec0135c05a47c071662e\output\AndroidManifest.xml:29:5-20
-MERGED from [com.facebook.android:facebook-places:4.28.0] C:\Users\project\.android\build-cache\d7331c6190a89282ad7b99f4b1afbf30ffaec0ee\output\AndroidManifest.xml:28:5-29:19
-MERGED from [com.facebook.android:facebook-applinks:4.28.0] C:\Users\project\.android\build-cache\55b56724a87133d97dcdb03ceadba102e3131f19\output\AndroidManifest.xml:28:5-29:19
-MERGED from [com.facebook.android:facebook-messenger:4.28.0] C:\Users\project\.android\build-cache\2c039f010045a912e97cf668159deeaed74185be\output\AndroidManifest.xml:28:5-29:19
-MERGED from [com.facebook.android:facebook-core:4.28.0] C:\Users\project\.android\build-cache\85ee468f7f10938078602497fab57c695957cb80\output\AndroidManifest.xml:28:5-43:19
-MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\project\.android\build-cache\f0528d56ce280a316a1a54d336a7c8b96be02965\output\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-compat:25.3.1] C:\Users\project\.android\build-cache\fac798f402d43baf4a441aaa7a45fff48a61ae70\output\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\project\.android\build-cache\0648a40cdf2e99666f4f4694ab892ce536b8d381\output\AndroidManifest.xml:9:5-20
-	android:label
-		ADDED from C:\ReadNFC\src\main\AndroidManifest.xml:32:9-41
+ADDED from C:\Users\moo\Desktop\Code\ReadNFC\src\main\AndroidManifest.xml:27:5-62:19
+MERGED from [com.android.support:design:25.3.1] C:\Users\moo\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\51dafbcc774ddaf34b5b85040e3bf9bc\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:design:25.3.1] C:\Users\moo\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\51dafbcc774ddaf34b5b85040e3bf9bc\AndroidManifest.xml:29:5-20
+MERGED from [com.facebook.android:facebook-android-sdk:4.34.0] C:\Users\moo\.gradle\caches\transforms-1\files-1.1\facebook-android-sdk-4.34.0.aar\18ea92e28b88118f01c90cdb63a6fa02\AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-android-sdk:4.34.0] C:\Users\moo\.gradle\caches\transforms-1\files-1.1\facebook-android-sdk-4.34.0.aar\18ea92e28b88118f01c90cdb63a6fa02\AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-login:4.34.0] C:\Users\moo\.gradle\caches\transforms-1\files-1.1\facebook-login-4.34.0.aar\81349d5d393c997f0b693d565f615e6c\AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-login:4.34.0] C:\Users\moo\.gradle\caches\transforms-1\files-1.1\facebook-login-4.34.0.aar\81349d5d393c997f0b693d565f615e6c\AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-share:4.34.0] C:\Users\moo\.gradle\caches\transforms-1\files-1.1\facebook-share-4.34.0.aar\45e6b20afd9919e7df2fd27074b224ae\AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-share:4.34.0] C:\Users\moo\.gradle\caches\transforms-1\files-1.1\facebook-share-4.34.0.aar\45e6b20afd9919e7df2fd27074b224ae\AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-common:4.34.0] C:\Users\moo\.gradle\caches\transforms-1\files-1.1\facebook-common-4.34.0.aar\ac556eb2275f996f4b45c789a493629a\AndroidManifest.xml:28:5-35:19
+MERGED from [com.facebook.android:facebook-common:4.34.0] C:\Users\moo\.gradle\caches\transforms-1\files-1.1\facebook-common-4.34.0.aar\ac556eb2275f996f4b45c789a493629a\AndroidManifest.xml:28:5-35:19
+MERGED from [taplinx-android:nxpnfcandroidlib:1.0] C:\Users\moo\.gradle\caches\transforms-1\files-1.1\nxpnfcandroidlib-1.0.aar\2a4916e60b477427eb914eb1405a2ff1\AndroidManifest.xml:13:5-43:19
+MERGED from [taplinx-android:nxpnfcandroidlib:1.0] C:\Users\moo\.gradle\caches\transforms-1\files-1.1\nxpnfcandroidlib-1.0.aar\2a4916e60b477427eb914eb1405a2ff1\AndroidManifest.xml:13:5-43:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\moo\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\cba64b704a3f3e299e8e42f32127dc7c\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\moo\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\cba64b704a3f3e299e8e42f32127dc7c\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:transition:25.3.1] C:\Users\moo\.gradle\caches\transforms-1\files-1.1\transition-25.3.1.aar\25da5b657c386b22dd69fe0f54abb78e\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:25.3.1] C:\Users\moo\.gradle\caches\transforms-1\files-1.1\transition-25.3.1.aar\25da5b657c386b22dd69fe0f54abb78e\AndroidManifest.xml:26:5-20
+MERGED from [com.facebook.android:facebook-places:4.34.0] C:\Users\moo\.gradle\caches\transforms-1\files-1.1\facebook-places-4.34.0.aar\81afef0915d4c415d1bdfc7ea183a93f\AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-places:4.34.0] C:\Users\moo\.gradle\caches\transforms-1\files-1.1\facebook-places-4.34.0.aar\81afef0915d4c415d1bdfc7ea183a93f\AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-applinks:4.34.0] C:\Users\moo\.gradle\caches\transforms-1\files-1.1\facebook-applinks-4.34.0.aar\06af89ad0fe90b4275b5d0b2183ce75f\AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-applinks:4.34.0] C:\Users\moo\.gradle\caches\transforms-1\files-1.1\facebook-applinks-4.34.0.aar\06af89ad0fe90b4275b5d0b2183ce75f\AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-messenger:4.34.0] C:\Users\moo\.gradle\caches\transforms-1\files-1.1\facebook-messenger-4.34.0.aar\106c56e39ff6f4c7f255fee73cffb464\AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-messenger:4.34.0] C:\Users\moo\.gradle\caches\transforms-1\files-1.1\facebook-messenger-4.34.0.aar\106c56e39ff6f4c7f255fee73cffb464\AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-marketing:4.34.0] C:\Users\moo\.gradle\caches\transforms-1\files-1.1\facebook-marketing-4.34.0.aar\37914a93749f8c4905156fb2149a7837\AndroidManifest.xml:28:5-33:19
+MERGED from [com.facebook.android:facebook-marketing:4.34.0] C:\Users\moo\.gradle\caches\transforms-1\files-1.1\facebook-marketing-4.34.0.aar\37914a93749f8c4905156fb2149a7837\AndroidManifest.xml:28:5-33:19
+MERGED from [com.facebook.android:facebook-core:4.34.0] C:\Users\moo\.gradle\caches\transforms-1\files-1.1\facebook-core-4.34.0.aar\e2f81d47a4cb0a2077781cd08614099f\AndroidManifest.xml:28:5-51:19
+MERGED from [com.facebook.android:facebook-core:4.34.0] C:\Users\moo\.gradle\caches\transforms-1\files-1.1\facebook-core-4.34.0.aar\e2f81d47a4cb0a2077781cd08614099f\AndroidManifest.xml:28:5-51:19
+MERGED from [com.google.android.gms:play-services-analytics:8.3.0] C:\Users\moo\.gradle\caches\transforms-1\files-1.1\play-services-analytics-8.3.0.aar\c1c98cc56a3451edcfc94548b58c3acd\AndroidManifest.xml:24:5-20
+MERGED from [com.google.android.gms:play-services-analytics:8.3.0] C:\Users\moo\.gradle\caches\transforms-1\files-1.1\play-services-analytics-8.3.0.aar\c1c98cc56a3451edcfc94548b58c3acd\AndroidManifest.xml:24:5-20
+MERGED from [com.google.android.gms:play-services-basement:8.3.0] C:\Users\moo\.gradle\caches\transforms-1\files-1.1\play-services-basement-8.3.0.aar\5c7d2862c217f5e45677855b236019fd\AndroidManifest.xml:20:5-24:19
+MERGED from [com.google.android.gms:play-services-basement:8.3.0] C:\Users\moo\.gradle\caches\transforms-1\files-1.1\play-services-basement-8.3.0.aar\5c7d2862c217f5e45677855b236019fd\AndroidManifest.xml:20:5-24:19
+	android:authorities
+		ADDED from C:\Users\moo\Desktop\Code\ReadNFC\src\main\AndroidManifest.xml:64:18-96
 	android:supportsRtl
-		ADDED from [taplinx-android:nxpnfcandroidlib:1.0] C:\Users\project\.android\build-cache\61e26e0454ddea0416088b757b32537259f02ff7\output\AndroidManifest.xml:16:9-35
-	android:allowBackup
-		ADDED from C:\ReadNFC\src\main\AndroidManifest.xml:29:9-36
-		REJECTED from [taplinx-android:nxpnfcandroidlib:1.0] C:\Users\project\.android\build-cache\61e26e0454ddea0416088b757b32537259f02ff7\output\AndroidManifest.xml:14:9-36
-	android:icon
-		ADDED from C:\ReadNFC\src\main\AndroidManifest.xml:31:9-46
-	android:description
-		ADDED from C:\ReadNFC\src\main\AndroidManifest.xml:30:9-47
-	android:theme
-		ADDED from C:\ReadNFC\src\main\AndroidManifest.xml:34:9-56
-	android:logo
-		ADDED from C:\ReadNFC\src\main\AndroidManifest.xml:33:9-37
-	tools:replace
-		ADDED from C:\ReadNFC\src\main\AndroidManifest.xml:28:9-44
-activity#com.nxp.sampletaplinx.SplashActivity
-ADDED from C:\ReadNFC\src\main\AndroidManifest.xml:35:9-43:20
-	android:screenOrientation
-		ADDED from C:\ReadNFC\src\main\AndroidManifest.xml:37:13-49
-	android:theme
-		ADDED from C:\ReadNFC\src\main\AndroidManifest.xml:38:13-77
-	android:name
-		ADDED from C:\ReadNFC\src\main\AndroidManifest.xml:36:13-64
-intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from C:\ReadNFC\src\main\AndroidManifest.xml:39:13-42:29
-action#android.intent.action.MAIN
-ADDED from C:\ReadNFC\src\main\AndroidManifest.xml:40:17-69
-	android:name
-		ADDED from C:\ReadNFC\src\main\AndroidManifest.xml:40:25-66
-category#android.intent.category.LAUNCHER
-ADDED from C:\ReadNFC\src\main\AndroidManifest.xml:41:17-77
-	android:name
-		ADDED from C:\ReadNFC\src\main\AndroidManifest.xml:41:27-74
-activity#com.nxp.sampletaplinx.MainActivity
-ADDED from C:\ReadNFC\src\main\AndroidManifest.xml:44:9-59:20
-	android:screenOrientation
-		ADDED from C:\ReadNFC\src\main\AndroidManifest.xml:49:13-49
+		ADDED from [com.facebook.android:facebook-android-sdk:4.34.0] C:\Users\moo\.gradle\caches\transforms-1\files-1.1\facebook-android-sdk-4.34.0.aar\18ea92e28b88118f01c90cdb63a6fa02\AndroidManifest.xml:28:18-44
 	android:label
-		ADDED from C:\ReadNFC\src\main\AndroidManifest.xml:46:13-45
+		ADDED from C:\Users\moo\Desktop\Code\ReadNFC\src\main\AndroidManifest.xml:32:9-41
+	android:exported
+		ADDED from C:\Users\moo\Desktop\Code\ReadNFC\src\main\AndroidManifest.xml:66:9-32
+	android:icon
+		ADDED from C:\Users\moo\Desktop\Code\ReadNFC\src\main\AndroidManifest.xml:31:9-46
+	android:allowBackup
+		ADDED from C:\Users\moo\Desktop\Code\ReadNFC\src\main\AndroidManifest.xml:29:9-36
+		REJECTED from [taplinx-android:nxpnfcandroidlib:1.0] C:\Users\moo\.gradle\caches\transforms-1\files-1.1\nxpnfcandroidlib-1.0.aar\2a4916e60b477427eb914eb1405a2ff1\AndroidManifest.xml:14:9-36
+	android:description
+		ADDED from C:\Users\moo\Desktop\Code\ReadNFC\src\main\AndroidManifest.xml:30:9-47
 	android:theme
-		ADDED from C:\ReadNFC\src\main\AndroidManifest.xml:48:13-83
+		ADDED from C:\Users\moo\Desktop\Code\ReadNFC\src\main\AndroidManifest.xml:34:9-56
+	tools:replace
+		ADDED from C:\Users\moo\Desktop\Code\ReadNFC\src\main\AndroidManifest.xml:28:9-44
 	android:logo
-		ADDED from C:\ReadNFC\src\main\AndroidManifest.xml:47:13-41
+		ADDED from C:\Users\moo\Desktop\Code\ReadNFC\src\main\AndroidManifest.xml:33:9-37
 	android:name
-		ADDED from C:\ReadNFC\src\main\AndroidManifest.xml:45:13-62
-intent-filter#android.intent.category.DEFAULT+android.nfc.action.NDEF_DISCOVERED+android.nfc.action.TAG_DISCOVERED+android.nfc.action.TECH_DISCOVERED
-ADDED from C:\ReadNFC\src\main\AndroidManifest.xml:50:13-57:29
-action#android.nfc.action.NDEF_DISCOVERED
-ADDED from C:\ReadNFC\src\main\AndroidManifest.xml:51:17-77
-	android:name
-		ADDED from C:\ReadNFC\src\main\AndroidManifest.xml:51:25-74
-action#android.nfc.action.TAG_DISCOVERED
-ADDED from C:\ReadNFC\src\main\AndroidManifest.xml:52:17-76
-	android:name
-		ADDED from C:\ReadNFC\src\main\AndroidManifest.xml:52:25-73
-action#android.nfc.action.TECH_DISCOVERED
-ADDED from C:\ReadNFC\src\main\AndroidManifest.xml:53:17-77
-	android:name
-		ADDED from C:\ReadNFC\src\main\AndroidManifest.xml:53:25-74
-category#android.intent.category.DEFAULT
-ADDED from C:\ReadNFC\src\main\AndroidManifest.xml:55:17-76
-	android:name
-		ADDED from C:\ReadNFC\src\main\AndroidManifest.xml:55:27-73
-meta-data#com.facebook.sdk.ApplicationId
-ADDED from C:\ReadNFC\src\main\AndroidManifest.xml:61:9-107
-	android:value
-		ADDED from C:\ReadNFC\src\main\AndroidManifest.xml:61:66-105
-	android:name
-		ADDED from C:\ReadNFC\src\main\AndroidManifest.xml:61:20-65
-provider#com.facebook.FacebookContentProvider
-ADDED from C:\ReadNFC\src\main\AndroidManifest.xml:64:5-66:34
-	android:authorities
-		ADDED from C:\ReadNFC\src\main\AndroidManifest.xml:64:15-93
-	android:exported
-		ADDED from C:\ReadNFC\src\main\AndroidManifest.xml:66:9-32
-	android:name
-		ADDED from C:\ReadNFC\src\main\AndroidManifest.xml:65:9-60
-uses-sdk
-INJECTED from C:\ReadNFC\src\main\AndroidManifest.xml reason: use-sdk injection requested
-MERGED from [com.android.support:design:25.3.1] C:\Users\project\.android\build-cache\954312de0b9279afe77c888c3dc1fc747b4a854b\output\AndroidManifest.xml:21:5-23:62
-MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\project\.android\build-cache\529459dbdfbf3809e3a1dc54766be7e42534cee4\output\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:transition:25.3.1] C:\Users\project\.android\build-cache\d4fbfb4f828fea009ea28d418f77f9f28e9ec1ad\output\AndroidManifest.xml:20:5-44
-MERGED from [taplinx-android:nxpnfcandroidlib:1.0] C:\Users\project\.android\build-cache\61e26e0454ddea0416088b757b32537259f02ff7\output\AndroidManifest.xml:7:5-9:41
-MERGED from [com.google.android.gms:play-services-analytics:8.3.0] C:\Users\project\.android\build-cache\57104c963a6503aa8162c8a3f140f41dd7669335\output\AndroidManifest.xml:18:5-42
-MERGED from [com.google.android.gms:play-services-basement:8.3.0] C:\Users\project\.android\build-cache\6c70025706924039fe0fa1c9e1818d6e067588cd\output\AndroidManifest.xml:18:5-42
-MERGED from [com.facebook.android:facebook-android-sdk:4.28.0] C:\Users\project\.android\build-cache\5ceee8c5e61f1a11f53b0461156e2baa6e8c2841\output\AndroidManifest.xml:24:5-26:41
-MERGED from [com.facebook.android:facebook-login:4.28.0] C:\Users\project\.android\build-cache\327237c474a6aeaa0216140f007583150d065432\output\AndroidManifest.xml:24:5-26:41
-MERGED from [com.facebook.android:facebook-share:4.28.0] C:\Users\project\.android\build-cache\9ccfdf41cb1f6b1a6088fa4a957bc171101bd76e\output\AndroidManifest.xml:24:5-26:41
-MERGED from [com.facebook.android:facebook-common:4.28.0] C:\Users\project\.android\build-cache\63d5dc0dd4d707b8ed106362874f54aff50d1d3d\output\AndroidManifest.xml:24:5-26:41
-MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\project\.android\build-cache\81973e0e58b419f04c73bfb2bcfcae94bd394f08\output\AndroidManifest.xml:21:5-23:78
-MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\project\.android\build-cache\da5bb750869e652941b26aaf40ea3942308d4907\output\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\project\.android\build-cache\a564275019d7d75b52d8bf98d27cc5b01f5804c0\output\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:cardview-v7:25.3.1] C:\Users\project\.android\build-cache\2fdc5a9c35a49e795e2d35b40bc24781389c5cb3\output\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:customtabs:25.3.1] C:\Users\project\.android\build-cache\e3e2779c2cc26c7674447e4b826137c2338d88fd\output\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-v4:25.3.1] C:\Users\project\.android\build-cache\a04a75bf9dbaf6eb2308d4e0c280eb84cd580aae\output\AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\project\.android\build-cache\56aa138fb9b76dbac0a2a1f739ee69ff3a184c42\output\AndroidManifest.xml:21:5-23:60
-MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\project\.android\build-cache\a06172d06bdac4b2c6630872fb7400104e876821\output\AndroidManifest.xml:21:5-23:63
-MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\project\.android\build-cache\b57c774d7e03febdd9c9ec0135c05a47c071662e\output\AndroidManifest.xml:21:5-23:58
-MERGED from [com.facebook.android:facebook-places:4.28.0] C:\Users\project\.android\build-cache\d7331c6190a89282ad7b99f4b1afbf30ffaec0ee\output\AndroidManifest.xml:24:5-26:41
-MERGED from [com.facebook.android:facebook-applinks:4.28.0] C:\Users\project\.android\build-cache\55b56724a87133d97dcdb03ceadba102e3131f19\output\AndroidManifest.xml:24:5-26:41
-MERGED from [com.facebook.android:facebook-messenger:4.28.0] C:\Users\project\.android\build-cache\2c039f010045a912e97cf668159deeaed74185be\output\AndroidManifest.xml:24:5-26:41
-MERGED from [com.facebook.android:facebook-core:4.28.0] C:\Users\project\.android\build-cache\85ee468f7f10938078602497fab57c695957cb80\output\AndroidManifest.xml:24:5-26:41
-MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\project\.android\build-cache\f0528d56ce280a316a1a54d336a7c8b96be02965\output\AndroidManifest.xml:21:5-23:61
-MERGED from [com.android.support:support-compat:25.3.1] C:\Users\project\.android\build-cache\fac798f402d43baf4a441aaa7a45fff48a61ae70\output\AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\project\.android\build-cache\0648a40cdf2e99666f4f4694ab892ce536b8d381\output\AndroidManifest.xml:5:5-7:41
-	tools:overrideLibrary
-		ADDED from [com.android.support:design:25.3.1] C:\Users\project\.android\build-cache\954312de0b9279afe77c888c3dc1fc747b4a854b\output\AndroidManifest.xml:23:9-59
-	android:targetSdkVersion
-		INJECTED from C:\ReadNFC\src\main\AndroidManifest.xml
-		INJECTED from C:\ReadNFC\src\main\AndroidManifest.xml
-	android:minSdkVersion
-		INJECTED from C:\ReadNFC\src\main\AndroidManifest.xml
-		INJECTED from C:\ReadNFC\src\main\AndroidManifest.xml
-meta-data#android.support.VERSION
-ADDED from [com.android.support:design:25.3.1] C:\Users\project\.android\build-cache\954312de0b9279afe77c888c3dc1fc747b4a854b\output\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\project\.android\build-cache\529459dbdfbf3809e3a1dc54766be7e42534cee4\output\AndroidManifest.xml:22:5-24:34
-MERGED from [com.android.support:transition:25.3.1] C:\Users\project\.android\build-cache\d4fbfb4f828fea009ea28d418f77f9f28e9ec1ad\output\AndroidManifest.xml:22:5-24:34
-MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\project\.android\build-cache\81973e0e58b419f04c73bfb2bcfcae94bd394f08\output\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\project\.android\build-cache\da5bb750869e652941b26aaf40ea3942308d4907\output\AndroidManifest.xml:22:5-24:34
-MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\project\.android\build-cache\a564275019d7d75b52d8bf98d27cc5b01f5804c0\output\AndroidManifest.xml:22:5-24:34
-MERGED from [com.android.support:cardview-v7:25.3.1] C:\Users\project\.android\build-cache\2fdc5a9c35a49e795e2d35b40bc24781389c5cb3\output\AndroidManifest.xml:22:5-24:34
-MERGED from [com.android.support:customtabs:25.3.1] C:\Users\project\.android\build-cache\e3e2779c2cc26c7674447e4b826137c2338d88fd\output\AndroidManifest.xml:22:5-24:34
-MERGED from [com.android.support:support-v4:25.3.1] C:\Users\project\.android\build-cache\a04a75bf9dbaf6eb2308d4e0c280eb84cd580aae\output\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\project\.android\build-cache\56aa138fb9b76dbac0a2a1f739ee69ff3a184c42\output\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\project\.android\build-cache\a06172d06bdac4b2c6630872fb7400104e876821\output\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\project\.android\build-cache\b57c774d7e03febdd9c9ec0135c05a47c071662e\output\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\project\.android\build-cache\f0528d56ce280a316a1a54d336a7c8b96be02965\output\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-compat:25.3.1] C:\Users\project\.android\build-cache\fac798f402d43baf4a441aaa7a45fff48a61ae70\output\AndroidManifest.xml:25:5-27:34
-	android:value
-		ADDED from [com.android.support:design:25.3.1] C:\Users\project\.android\build-cache\954312de0b9279afe77c888c3dc1fc747b4a854b\output\AndroidManifest.xml:27:9-31
-	android:name
-		ADDED from [com.android.support:design:25.3.1] C:\Users\project\.android\build-cache\954312de0b9279afe77c888c3dc1fc747b4a854b\output\AndroidManifest.xml:26:9-47
-receiver#com.google.android.gms.analytics.AnalyticsReceiver
-ADDED from [taplinx-android:nxpnfcandroidlib:1.0] C:\Users\project\.android\build-cache\61e26e0454ddea0416088b757b32537259f02ff7\output\AndroidManifest.xml:17:9-23:20
-	android:enabled
-		ADDED from [taplinx-android:nxpnfcandroidlib:1.0] C:\Users\project\.android\build-cache\61e26e0454ddea0416088b757b32537259f02ff7\output\AndroidManifest.xml:19:13-35
-	android:name
-		ADDED from [taplinx-android:nxpnfcandroidlib:1.0] C:\Users\project\.android\build-cache\61e26e0454ddea0416088b757b32537259f02ff7\output\AndroidManifest.xml:18:13-78
-intent-filter#com.google.android.gms.analytics.ANALYTICS_DISPATCH
-ADDED from [taplinx-android:nxpnfcandroidlib:1.0] C:\Users\project\.android\build-cache\61e26e0454ddea0416088b757b32537259f02ff7\output\AndroidManifest.xml:20:13-22:29
-action#com.google.android.gms.analytics.ANALYTICS_DISPATCH
-ADDED from [taplinx-android:nxpnfcandroidlib:1.0] C:\Users\project\.android\build-cache\61e26e0454ddea0416088b757b32537259f02ff7\output\AndroidManifest.xml:21:17-94
-	android:name
-		ADDED from [taplinx-android:nxpnfcandroidlib:1.0] C:\Users\project\.android\build-cache\61e26e0454ddea0416088b757b32537259f02ff7\output\AndroidManifest.xml:21:25-91
-service#com.google.android.gms.analytics.AnalyticsService
-ADDED from [taplinx-android:nxpnfcandroidlib:1.0] C:\Users\project\.android\build-cache\61e26e0454ddea0416088b757b32537259f02ff7\output\AndroidManifest.xml:25:9-28:40
-	android:enabled
-		ADDED from [taplinx-android:nxpnfcandroidlib:1.0] C:\Users\project\.android\build-cache\61e26e0454ddea0416088b757b32537259f02ff7\output\AndroidManifest.xml:27:13-35
-	android:exported
-		ADDED from [taplinx-android:nxpnfcandroidlib:1.0] C:\Users\project\.android\build-cache\61e26e0454ddea0416088b757b32537259f02ff7\output\AndroidManifest.xml:28:13-37
-	android:name
-		ADDED from [taplinx-android:nxpnfcandroidlib:1.0] C:\Users\project\.android\build-cache\61e26e0454ddea0416088b757b32537259f02ff7\output\AndroidManifest.xml:26:13-77
-receiver#com.google.android.gms.analytics.CampaignTrackingReceiver
-ADDED from [taplinx-android:nxpnfcandroidlib:1.0] C:\Users\project\.android\build-cache\61e26e0454ddea0416088b757b32537259f02ff7\output\AndroidManifest.xml:34:9-40:20
-	android:exported
-		ADDED from [taplinx-android:nxpnfcandroidlib:1.0] C:\Users\project\.android\build-cache\61e26e0454ddea0416088b757b32537259f02ff7\output\AndroidManifest.xml:36:13-36
-	android:name
-		ADDED from [taplinx-android:nxpnfcandroidlib:1.0] C:\Users\project\.android\build-cache\61e26e0454ddea0416088b757b32537259f02ff7\output\AndroidManifest.xml:35:13-85
-intent-filter#com.android.vending.INSTALL_REFERRER
-ADDED from [taplinx-android:nxpnfcandroidlib:1.0] C:\Users\project\.android\build-cache\61e26e0454ddea0416088b757b32537259f02ff7\output\AndroidManifest.xml:37:13-39:29
-action#com.android.vending.INSTALL_REFERRER
-ADDED from [taplinx-android:nxpnfcandroidlib:1.0] C:\Users\project\.android\build-cache\61e26e0454ddea0416088b757b32537259f02ff7\output\AndroidManifest.xml:38:17-79
-	android:name
-		ADDED from [taplinx-android:nxpnfcandroidlib:1.0] C:\Users\project\.android\build-cache\61e26e0454ddea0416088b757b32537259f02ff7\output\AndroidManifest.xml:38:25-76
-service#com.google.android.gms.analytics.CampaignTrackingService
-ADDED from [taplinx-android:nxpnfcandroidlib:1.0] C:\Users\project\.android\build-cache\61e26e0454ddea0416088b757b32537259f02ff7\output\AndroidManifest.xml:42:9-92
-	android:name
-		ADDED from [taplinx-android:nxpnfcandroidlib:1.0] C:\Users\project\.android\build-cache\61e26e0454ddea0416088b757b32537259f02ff7\output\AndroidManifest.xml:42:18-89
-meta-data#com.google.android.gms.version
-ADDED from [com.google.android.gms:play-services-basement:8.3.0] C:\Users\project\.android\build-cache\6c70025706924039fe0fa1c9e1818d6e067588cd\output\AndroidManifest.xml:21:9-23:69
-	android:value
-		ADDED from [com.google.android.gms:play-services-basement:8.3.0] C:\Users\project\.android\build-cache\6c70025706924039fe0fa1c9e1818d6e067588cd\output\AndroidManifest.xml:23:13-66
-	android:name
-		ADDED from [com.google.android.gms:play-services-basement:8.3.0] C:\Users\project\.android\build-cache\6c70025706924039fe0fa1c9e1818d6e067588cd\output\AndroidManifest.xml:22:13-58
-activity#com.facebook.FacebookActivity
-ADDED from [com.facebook.android:facebook-common:4.28.0] C:\Users\project\.android\build-cache\63d5dc0dd4d707b8ed106362874f54aff50d1d3d\output\AndroidManifest.xml:29:9-32:66
-	android:configChanges
-		ADDED from [com.facebook.android:facebook-common:4.28.0] C:\Users\project\.android\build-cache\63d5dc0dd4d707b8ed106362874f54aff50d1d3d\output\AndroidManifest.xml:31:13-96
+		ADDED from C:\Users\moo\Desktop\Code\ReadNFC\src\main\AndroidManifest.xml:65:9-60
+activity#com.nxp.sampletaplinx.SplashActivity
+ADDED from C:\Users\moo\Desktop\Code\ReadNFC\src\main\AndroidManifest.xml:35:9-43:20
+	android:screenOrientation
+		ADDED from C:\Users\moo\Desktop\Code\ReadNFC\src\main\AndroidManifest.xml:37:13-49
 	android:theme
-		ADDED from [com.facebook.android:facebook-common:4.28.0] C:\Users\project\.android\build-cache\63d5dc0dd4d707b8ed106362874f54aff50d1d3d\output\AndroidManifest.xml:32:13-63
+		ADDED from C:\Users\moo\Desktop\Code\ReadNFC\src\main\AndroidManifest.xml:38:13-77
 	android:name
-		ADDED from [com.facebook.android:facebook-common:4.28.0] C:\Users\project\.android\build-cache\63d5dc0dd4d707b8ed106362874f54aff50d1d3d\output\AndroidManifest.xml:30:13-57
+		ADDED from C:\Users\moo\Desktop\Code\ReadNFC\src\main\AndroidManifest.xml:36:13-64
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\moo\Desktop\Code\ReadNFC\src\main\AndroidManifest.xml:39:13-42:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\moo\Desktop\Code\ReadNFC\src\main\AndroidManifest.xml:40:17-69
+	android:name
+		ADDED from C:\Users\moo\Desktop\Code\ReadNFC\src\main\AndroidManifest.xml:40:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\moo\Desktop\Code\ReadNFC\src\main\AndroidManifest.xml:41:17-77
+	android:name
+		ADDED from C:\Users\moo\Desktop\Code\ReadNFC\src\main\AndroidManifest.xml:41:27-74
+activity#com.nxp.sampletaplinx.MainActivity
+ADDED from C:\Users\moo\Desktop\Code\ReadNFC\src\main\AndroidManifest.xml:44:9-59:20
+	android:screenOrientation
+		ADDED from C:\Users\moo\Desktop\Code\ReadNFC\src\main\AndroidManifest.xml:49:13-49
+	android:label
+		ADDED from C:\Users\moo\Desktop\Code\ReadNFC\src\main\AndroidManifest.xml:46:13-45
+	android:theme
+		ADDED from C:\Users\moo\Desktop\Code\ReadNFC\src\main\AndroidManifest.xml:48:13-83
+	android:logo
+		ADDED from C:\Users\moo\Desktop\Code\ReadNFC\src\main\AndroidManifest.xml:47:13-41
+	android:name
+		ADDED from C:\Users\moo\Desktop\Code\ReadNFC\src\main\AndroidManifest.xml:45:13-62
+intent-filter#action:name:android.nfc.action.NDEF_DISCOVERED+action:name:android.nfc.action.TAG_DISCOVERED+action:name:android.nfc.action.TECH_DISCOVERED+category:name:android.intent.category.DEFAULT
+ADDED from C:\Users\moo\Desktop\Code\ReadNFC\src\main\AndroidManifest.xml:50:13-57:29
+action#android.nfc.action.NDEF_DISCOVERED
+ADDED from C:\Users\moo\Desktop\Code\ReadNFC\src\main\AndroidManifest.xml:51:17-77
+	android:name
+		ADDED from C:\Users\moo\Desktop\Code\ReadNFC\src\main\AndroidManifest.xml:51:25-74
+action#android.nfc.action.TAG_DISCOVERED
+ADDED from C:\Users\moo\Desktop\Code\ReadNFC\src\main\AndroidManifest.xml:52:17-76
+	android:name
+		ADDED from C:\Users\moo\Desktop\Code\ReadNFC\src\main\AndroidManifest.xml:52:25-73
+action#android.nfc.action.TECH_DISCOVERED
+ADDED from C:\Users\moo\Desktop\Code\ReadNFC\src\main\AndroidManifest.xml:53:17-77
+	android:name
+		ADDED from C:\Users\moo\Desktop\Code\ReadNFC\src\main\AndroidManifest.xml:53:25-74
+category#android.intent.category.DEFAULT
+ADDED from C:\Users\moo\Desktop\Code\ReadNFC\src\main\AndroidManifest.xml:55:17-76
+	android:name
+		ADDED from C:\Users\moo\Desktop\Code\ReadNFC\src\main\AndroidManifest.xml:55:27-73
+meta-data#com.facebook.sdk.ApplicationId
+ADDED from C:\Users\moo\Desktop\Code\ReadNFC\src\main\AndroidManifest.xml:61:9-107
+	android:value
+		ADDED from C:\Users\moo\Desktop\Code\ReadNFC\src\main\AndroidManifest.xml:61:66-105
+	android:name
+		ADDED from C:\Users\moo\Desktop\Code\ReadNFC\src\main\AndroidManifest.xml:61:20-65
+uses-sdk
+INJECTED from C:\Users\moo\Desktop\Code\ReadNFC\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\moo\Desktop\Code\ReadNFC\src\main\AndroidManifest.xml
+INJECTED from C:\Users\moo\Desktop\Code\ReadNFC\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:25.3.1] C:\Users\moo\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\51dafbcc774ddaf34b5b85040e3bf9bc\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:design:25.3.1] C:\Users\moo\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\51dafbcc774ddaf34b5b85040e3bf9bc\AndroidManifest.xml:21:5-23:62
+MERGED from [com.facebook.android:facebook-android-sdk:4.34.0] C:\Users\moo\.gradle\caches\transforms-1\files-1.1\facebook-android-sdk-4.34.0.aar\18ea92e28b88118f01c90cdb63a6fa02\AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-android-sdk:4.34.0] C:\Users\moo\.gradle\caches\transforms-1\files-1.1\facebook-android-sdk-4.34.0.aar\18ea92e28b88118f01c90cdb63a6fa02\AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-login:4.34.0] C:\Users\moo\.gradle\caches\transforms-1\files-1.1\facebook-login-4.34.0.aar\81349d5d393c997f0b693d565f615e6c\AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-login:4.34.0] C:\Users\moo\.gradle\caches\transforms-1\files-1.1\facebook-login-4.34.0.aar\81349d5d393c997f0b693d565f615e6c\AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-share:4.34.0] C:\Users\moo\.gradle\caches\transforms-1\files-1.1\facebook-share-4.34.0.aar\45e6b20afd9919e7df2fd27074b224ae\AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-share:4.34.0] C:\Users\moo\.gradle\caches\transforms-1\files-1.1\facebook-share-4.34.0.aar\45e6b20afd9919e7df2fd27074b224ae\AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-common:4.34.0] C:\Users\moo\.gradle\caches\transforms-1\files-1.1\facebook-common-4.34.0.aar\ac556eb2275f996f4b45c789a493629a\AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-common:4.34.0] C:\Users\moo\.gradle\caches\transforms-1\files-1.1\facebook-common-4.34.0.aar\ac556eb2275f996f4b45c789a493629a\AndroidManifest.xml:24:5-26:41
+MERGED from [com.android.support:appcompat-v7:27.0.2] C:\Users\moo\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.2.aar\f4b2b044bdb073a3b8f788cacef0c757\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.2] C:\Users\moo\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.2.aar\f4b2b044bdb073a3b8f788cacef0c757\AndroidManifest.xml:20:5-44
+MERGED from [taplinx-android:nxpnfcandroidlib:1.0] C:\Users\moo\.gradle\caches\transforms-1\files-1.1\nxpnfcandroidlib-1.0.aar\2a4916e60b477427eb914eb1405a2ff1\AndroidManifest.xml:7:5-9:41
+MERGED from [taplinx-android:nxpnfcandroidlib:1.0] C:\Users\moo\.gradle\caches\transforms-1\files-1.1\nxpnfcandroidlib-1.0.aar\2a4916e60b477427eb914eb1405a2ff1\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\moo\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\cba64b704a3f3e299e8e42f32127dc7c\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\moo\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\cba64b704a3f3e299e8e42f32127dc7c\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\moo\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-25.3.1.aar\740de3a90351e4d6c68e7477594a4162\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\moo\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-25.3.1.aar\740de3a90351e4d6c68e7477594a4162\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.3.1] C:\Users\moo\.gradle\caches\transforms-1\files-1.1\transition-25.3.1.aar\25da5b657c386b22dd69fe0f54abb78e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:25.3.1] C:\Users\moo\.gradle\caches\transforms-1\files-1.1\transition-25.3.1.aar\25da5b657c386b22dd69fe0f54abb78e\AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.android:facebook-places:4.34.0] C:\Users\moo\.gradle\caches\transforms-1\files-1.1\facebook-places-4.34.0.aar\81afef0915d4c415d1bdfc7ea183a93f\AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-places:4.34.0] C:\Users\moo\.gradle\caches\transforms-1\files-1.1\facebook-places-4.34.0.aar\81afef0915d4c415d1bdfc7ea183a93f\AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-applinks:4.34.0] C:\Users\moo\.gradle\caches\transforms-1\files-1.1\facebook-applinks-4.34.0.aar\06af89ad0fe90b4275b5d0b2183ce75f\AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-applinks:4.34.0] C:\Users\moo\.gradle\caches\transforms-1\files-1.1\facebook-applinks-4.34.0.aar\06af89ad0fe90b4275b5d0b2183ce75f\AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-messenger:4.34.0] C:\Users\moo\.gradle\caches\transforms-1\files-1.1\facebook-messenger-4.34.0.aar\106c56e39ff6f4c7f255fee73cffb464\AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-messenger:4.34.0] C:\Users\moo\.gradle\caches\transforms-1\files-1.1\facebook-messenger-4.34.0.aar\106c56e39ff6f4c7f255fee73cffb464\AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-marketing:4.34.0] C:\Users\moo\.gradle\caches\transforms-1\files-1.1\facebook-marketing-4.34.0.aar\37914a93749f8c4905156fb2149a7837\AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-marketing:4.34.0] C:\Users\moo\.gradle\caches\transforms-1\files-1.1\facebook-marketing-4.34.0.aar\37914a93749f8c4905156fb2149a7837\AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-core:4.34.0] C:\Users\moo\.gradle\caches\transforms-1\files-1.1\facebook-core-4.34.0.aar\e2f81d47a4cb0a2077781cd08614099f\AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-core:4.34.0] C:\Users\moo\.gradle\caches\transforms-1\files-1.1\facebook-core-4.34.0.aar\e2f81d47a4cb0a2077781cd08614099f\AndroidManifest.xml:24:5-26:41
+MERGED from [com.android.support:cardview-v7:27.0.2] C:\Users\moo\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.0.2.aar\bfc3ea6a2cec77fccd832a3ddeea593d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.0.2] C:\Users\moo\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.0.2.aar\bfc3ea6a2cec77fccd832a3ddeea593d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customtabs:27.0.2] C:\Users\moo\.gradle\caches\transforms-1\files-1.1\customtabs-27.0.2.aar\5c2708f0df024a003d0bf2ad51f955f4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customtabs:27.0.2] C:\Users\moo\.gradle\caches\transforms-1\files-1.1\customtabs-27.0.2.aar\5c2708f0df024a003d0bf2ad51f955f4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] C:\Users\moo\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.2.aar\41e6459275c01338c12c3b8ae1e6fff9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] C:\Users\moo\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.2.aar\41e6459275c01338c12c3b8ae1e6fff9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] C:\Users\moo\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.2.aar\f4557c9104ce8703f2cffd4fda4019cc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] C:\Users\moo\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.2.aar\f4557c9104ce8703f2cffd4fda4019cc\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-analytics:8.3.0] C:\Users\moo\.gradle\caches\transforms-1\files-1.1\play-services-analytics-8.3.0.aar\c1c98cc56a3451edcfc94548b58c3acd\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-analytics:8.3.0] C:\Users\moo\.gradle\caches\transforms-1\files-1.1\play-services-analytics-8.3.0.aar\c1c98cc56a3451edcfc94548b58c3acd\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-basement:8.3.0] C:\Users\moo\.gradle\caches\transforms-1\files-1.1\play-services-basement-8.3.0.aar\5c7d2862c217f5e45677855b236019fd\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-basement:8.3.0] C:\Users\moo\.gradle\caches\transforms-1\files-1.1\play-services-basement-8.3.0.aar\5c7d2862c217f5e45677855b236019fd\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:27.0.2] C:\Users\moo\.gradle\caches\transforms-1\files-1.1\support-v4-27.0.2.aar\d92b334f3d0cd339e6713f05faa0d2c7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.0.2] C:\Users\moo\.gradle\caches\transforms-1\files-1.1\support-v4-27.0.2.aar\d92b334f3d0cd339e6713f05faa0d2c7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] C:\Users\moo\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.2.aar\752faf6f785963c70e4775a4153739f6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] C:\Users\moo\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.2.aar\752faf6f785963c70e4775a4153739f6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] C:\Users\moo\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.2.aar\85b1dce4d1dcd75797deb019c671c795\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] C:\Users\moo\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.2.aar\85b1dce4d1dcd75797deb019c671c795\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] C:\Users\moo\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.2.aar\7ae59fbf94b1d506e02f65789bf5bb16\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] C:\Users\moo\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.2.aar\7ae59fbf94b1d506e02f65789bf5bb16\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.2] C:\Users\moo\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.0.2.aar\eda45193657bd8cb1d7dcf9138cb6d83\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.2] C:\Users\moo\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.0.2.aar\eda45193657bd8cb1d7dcf9138cb6d83\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] C:\Users\moo\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.2.aar\88a911c05433cc85e75e75ad90b9954b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] C:\Users\moo\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.2.aar\88a911c05433cc85e75e75ad90b9954b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\moo\.gradle\caches\transforms-1\files-1.1\runtime-1.0.3.aar\46e63bdd033bc18c8446852c6a43320a\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\moo\.gradle\caches\transforms-1\files-1.1\runtime-1.0.3.aar\46e63bdd033bc18c8446852c6a43320a\AndroidManifest.xml:20:5-22:41
+INJECTED from C:\Users\moo\Desktop\Code\ReadNFC\src\main\AndroidManifest.xml
+INJECTED from C:\Users\moo\Desktop\Code\ReadNFC\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.3.1] C:\Users\moo\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\51dafbcc774ddaf34b5b85040e3bf9bc\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from C:\Users\moo\Desktop\Code\ReadNFC\src\main\AndroidManifest.xml
+		ADDED from C:\Users\moo\Desktop\Code\ReadNFC\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\moo\Desktop\Code\ReadNFC\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\moo\Desktop\Code\ReadNFC\src\main\AndroidManifest.xml
+		ADDED from C:\Users\moo\Desktop\Code\ReadNFC\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\moo\Desktop\Code\ReadNFC\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:25.3.1] C:\Users\moo\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\51dafbcc774ddaf34b5b85040e3bf9bc\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\moo\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-25.3.1.aar\740de3a90351e4d6c68e7477594a4162\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\moo\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-25.3.1.aar\740de3a90351e4d6c68e7477594a4162\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:transition:25.3.1] C:\Users\moo\.gradle\caches\transforms-1\files-1.1\transition-25.3.1.aar\25da5b657c386b22dd69fe0f54abb78e\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:transition:25.3.1] C:\Users\moo\.gradle\caches\transforms-1\files-1.1\transition-25.3.1.aar\25da5b657c386b22dd69fe0f54abb78e\AndroidManifest.xml:22:5-24:34
+	android:value
+		ADDED from [com.android.support:design:25.3.1] C:\Users\moo\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\51dafbcc774ddaf34b5b85040e3bf9bc\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:design:25.3.1] C:\Users\moo\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\51dafbcc774ddaf34b5b85040e3bf9bc\AndroidManifest.xml:26:9-47
+activity#com.facebook.FacebookActivity
+ADDED from [com.facebook.android:facebook-common:4.34.0] C:\Users\moo\.gradle\caches\transforms-1\files-1.1\facebook-common-4.34.0.aar\ac556eb2275f996f4b45c789a493629a\AndroidManifest.xml:29:9-32:66
+	android:configChanges
+		ADDED from [com.facebook.android:facebook-common:4.34.0] C:\Users\moo\.gradle\caches\transforms-1\files-1.1\facebook-common-4.34.0.aar\ac556eb2275f996f4b45c789a493629a\AndroidManifest.xml:31:13-96
+	android:theme
+		ADDED from [com.facebook.android:facebook-common:4.34.0] C:\Users\moo\.gradle\caches\transforms-1\files-1.1\facebook-common-4.34.0.aar\ac556eb2275f996f4b45c789a493629a\AndroidManifest.xml:32:13-63
+	android:name
+		ADDED from [com.facebook.android:facebook-common:4.34.0] C:\Users\moo\.gradle\caches\transforms-1\files-1.1\facebook-common-4.34.0.aar\ac556eb2275f996f4b45c789a493629a\AndroidManifest.xml:30:13-57
 activity#com.facebook.CustomTabMainActivity
-ADDED from [com.facebook.android:facebook-common:4.28.0] C:\Users\project\.android\build-cache\63d5dc0dd4d707b8ed106362874f54aff50d1d3d\output\AndroidManifest.xml:33:9-71
+ADDED from [com.facebook.android:facebook-common:4.34.0] C:\Users\moo\.gradle\caches\transforms-1\files-1.1\facebook-common-4.34.0.aar\ac556eb2275f996f4b45c789a493629a\AndroidManifest.xml:33:9-71
 	android:name
-		ADDED from [com.facebook.android:facebook-common:4.28.0] C:\Users\project\.android\build-cache\63d5dc0dd4d707b8ed106362874f54aff50d1d3d\output\AndroidManifest.xml:33:19-68
-provider#com.facebook.internal.FacebookInitProvider
-ADDED from [com.facebook.android:facebook-core:4.28.0] C:\Users\project\.android\build-cache\85ee468f7f10938078602497fab57c695957cb80\output\AndroidManifest.xml:39:9-42:40
-	android:authorities
-		ADDED from [com.facebook.android:facebook-core:4.28.0] C:\Users\project\.android\build-cache\85ee468f7f10938078602497fab57c695957cb80\output\AndroidManifest.xml:41:13-72
+		ADDED from [com.facebook.android:facebook-common:4.34.0] C:\Users\moo\.gradle\caches\transforms-1\files-1.1\facebook-common-4.34.0.aar\ac556eb2275f996f4b45c789a493629a\AndroidManifest.xml:33:19-68
+activity#com.facebook.CustomTabActivity
+ADDED from [com.facebook.android:facebook-common:4.34.0] C:\Users\moo\.gradle\caches\transforms-1\files-1.1\facebook-common-4.34.0.aar\ac556eb2275f996f4b45c789a493629a\AndroidManifest.xml:34:9-67
+	android:name
+		ADDED from [com.facebook.android:facebook-common:4.34.0] C:\Users\moo\.gradle\caches\transforms-1\files-1.1\facebook-common-4.34.0.aar\ac556eb2275f996f4b45c789a493629a\AndroidManifest.xml:34:19-64
+receiver#com.google.android.gms.analytics.AnalyticsReceiver
+ADDED from [taplinx-android:nxpnfcandroidlib:1.0] C:\Users\moo\.gradle\caches\transforms-1\files-1.1\nxpnfcandroidlib-1.0.aar\2a4916e60b477427eb914eb1405a2ff1\AndroidManifest.xml:17:9-23:20
+	android:enabled
+		ADDED from [taplinx-android:nxpnfcandroidlib:1.0] C:\Users\moo\.gradle\caches\transforms-1\files-1.1\nxpnfcandroidlib-1.0.aar\2a4916e60b477427eb914eb1405a2ff1\AndroidManifest.xml:19:13-35
+	android:name
+		ADDED from [taplinx-android:nxpnfcandroidlib:1.0] C:\Users\moo\.gradle\caches\transforms-1\files-1.1\nxpnfcandroidlib-1.0.aar\2a4916e60b477427eb914eb1405a2ff1\AndroidManifest.xml:18:13-78
+intent-filter#action:name:com.google.android.gms.analytics.ANALYTICS_DISPATCH
+ADDED from [taplinx-android:nxpnfcandroidlib:1.0] C:\Users\moo\.gradle\caches\transforms-1\files-1.1\nxpnfcandroidlib-1.0.aar\2a4916e60b477427eb914eb1405a2ff1\AndroidManifest.xml:20:13-22:29
+action#com.google.android.gms.analytics.ANALYTICS_DISPATCH
+ADDED from [taplinx-android:nxpnfcandroidlib:1.0] C:\Users\moo\.gradle\caches\transforms-1\files-1.1\nxpnfcandroidlib-1.0.aar\2a4916e60b477427eb914eb1405a2ff1\AndroidManifest.xml:21:17-94
+	android:name
+		ADDED from [taplinx-android:nxpnfcandroidlib:1.0] C:\Users\moo\.gradle\caches\transforms-1\files-1.1\nxpnfcandroidlib-1.0.aar\2a4916e60b477427eb914eb1405a2ff1\AndroidManifest.xml:21:25-91
+service#com.google.android.gms.analytics.AnalyticsService
+ADDED from [taplinx-android:nxpnfcandroidlib:1.0] C:\Users\moo\.gradle\caches\transforms-1\files-1.1\nxpnfcandroidlib-1.0.aar\2a4916e60b477427eb914eb1405a2ff1\AndroidManifest.xml:25:9-28:40
+	android:enabled
+		ADDED from [taplinx-android:nxpnfcandroidlib:1.0] C:\Users\moo\.gradle\caches\transforms-1\files-1.1\nxpnfcandroidlib-1.0.aar\2a4916e60b477427eb914eb1405a2ff1\AndroidManifest.xml:27:13-35
 	android:exported
-		ADDED from [com.facebook.android:facebook-core:4.28.0] C:\Users\project\.android\build-cache\85ee468f7f10938078602497fab57c695957cb80\output\AndroidManifest.xml:42:13-37
+		ADDED from [taplinx-android:nxpnfcandroidlib:1.0] C:\Users\moo\.gradle\caches\transforms-1\files-1.1\nxpnfcandroidlib-1.0.aar\2a4916e60b477427eb914eb1405a2ff1\AndroidManifest.xml:28:13-37
 	android:name
-		ADDED from [com.facebook.android:facebook-core:4.28.0] C:\Users\project\.android\build-cache\85ee468f7f10938078602497fab57c695957cb80\output\AndroidManifest.xml:40:13-70
+		ADDED from [taplinx-android:nxpnfcandroidlib:1.0] C:\Users\moo\.gradle\caches\transforms-1\files-1.1\nxpnfcandroidlib-1.0.aar\2a4916e60b477427eb914eb1405a2ff1\AndroidManifest.xml:26:13-77
+receiver#com.google.android.gms.analytics.CampaignTrackingReceiver
+ADDED from [taplinx-android:nxpnfcandroidlib:1.0] C:\Users\moo\.gradle\caches\transforms-1\files-1.1\nxpnfcandroidlib-1.0.aar\2a4916e60b477427eb914eb1405a2ff1\AndroidManifest.xml:34:9-40:20
+	android:exported
+		ADDED from [taplinx-android:nxpnfcandroidlib:1.0] C:\Users\moo\.gradle\caches\transforms-1\files-1.1\nxpnfcandroidlib-1.0.aar\2a4916e60b477427eb914eb1405a2ff1\AndroidManifest.xml:36:13-36
+	android:name
+		ADDED from [taplinx-android:nxpnfcandroidlib:1.0] C:\Users\moo\.gradle\caches\transforms-1\files-1.1\nxpnfcandroidlib-1.0.aar\2a4916e60b477427eb914eb1405a2ff1\AndroidManifest.xml:35:13-85
+intent-filter#action:name:com.android.vending.INSTALL_REFERRER
+ADDED from [taplinx-android:nxpnfcandroidlib:1.0] C:\Users\moo\.gradle\caches\transforms-1\files-1.1\nxpnfcandroidlib-1.0.aar\2a4916e60b477427eb914eb1405a2ff1\AndroidManifest.xml:37:13-39:29
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [taplinx-android:nxpnfcandroidlib:1.0] C:\Users\moo\.gradle\caches\transforms-1\files-1.1\nxpnfcandroidlib-1.0.aar\2a4916e60b477427eb914eb1405a2ff1\AndroidManifest.xml:38:17-79
+	android:name
+		ADDED from [taplinx-android:nxpnfcandroidlib:1.0] C:\Users\moo\.gradle\caches\transforms-1\files-1.1\nxpnfcandroidlib-1.0.aar\2a4916e60b477427eb914eb1405a2ff1\AndroidManifest.xml:38:25-76
+service#com.google.android.gms.analytics.CampaignTrackingService
+ADDED from [taplinx-android:nxpnfcandroidlib:1.0] C:\Users\moo\.gradle\caches\transforms-1\files-1.1\nxpnfcandroidlib-1.0.aar\2a4916e60b477427eb914eb1405a2ff1\AndroidManifest.xml:42:9-92
+	android:name
+		ADDED from [taplinx-android:nxpnfcandroidlib:1.0] C:\Users\moo\.gradle\caches\transforms-1\files-1.1\nxpnfcandroidlib-1.0.aar\2a4916e60b477427eb914eb1405a2ff1\AndroidManifest.xml:42:18-89
+provider#com.facebook.marketing.internal.MarketingInitProvider
+ADDED from [com.facebook.android:facebook-marketing:4.34.0] C:\Users\moo\.gradle\caches\transforms-1\files-1.1\facebook-marketing-4.34.0.aar\37914a93749f8c4905156fb2149a7837\AndroidManifest.xml:29:9-32:40
+	android:authorities
+		ADDED from [com.facebook.android:facebook-marketing:4.34.0] C:\Users\moo\.gradle\caches\transforms-1\files-1.1\facebook-marketing-4.34.0.aar\37914a93749f8c4905156fb2149a7837\AndroidManifest.xml:31:13-73
+	android:exported
+		ADDED from [com.facebook.android:facebook-marketing:4.34.0] C:\Users\moo\.gradle\caches\transforms-1\files-1.1\facebook-marketing-4.34.0.aar\37914a93749f8c4905156fb2149a7837\AndroidManifest.xml:32:13-37
+	android:name
+		ADDED from [com.facebook.android:facebook-marketing:4.34.0] C:\Users\moo\.gradle\caches\transforms-1\files-1.1\facebook-marketing-4.34.0.aar\37914a93749f8c4905156fb2149a7837\AndroidManifest.xml:30:13-81
+provider#com.facebook.internal.FacebookInitProvider
+ADDED from [com.facebook.android:facebook-core:4.34.0] C:\Users\moo\.gradle\caches\transforms-1\files-1.1\facebook-core-4.34.0.aar\e2f81d47a4cb0a2077781cd08614099f\AndroidManifest.xml:39:9-42:40
+	android:authorities
+		ADDED from [com.facebook.android:facebook-core:4.34.0] C:\Users\moo\.gradle\caches\transforms-1\files-1.1\facebook-core-4.34.0.aar\e2f81d47a4cb0a2077781cd08614099f\AndroidManifest.xml:41:13-72
+	android:exported
+		ADDED from [com.facebook.android:facebook-core:4.34.0] C:\Users\moo\.gradle\caches\transforms-1\files-1.1\facebook-core-4.34.0.aar\e2f81d47a4cb0a2077781cd08614099f\AndroidManifest.xml:42:13-37
+	android:name
+		ADDED from [com.facebook.android:facebook-core:4.34.0] C:\Users\moo\.gradle\caches\transforms-1\files-1.1\facebook-core-4.34.0.aar\e2f81d47a4cb0a2077781cd08614099f\AndroidManifest.xml:40:13-70
+receiver#com.facebook.CurrentAccessTokenExpirationBroadcastReceiver
+ADDED from [com.facebook.android:facebook-core:4.34.0] C:\Users\moo\.gradle\caches\transforms-1\files-1.1\facebook-core-4.34.0.aar\e2f81d47a4cb0a2077781cd08614099f\AndroidManifest.xml:44:9-50:20
+	android:exported
+		ADDED from [com.facebook.android:facebook-core:4.34.0] C:\Users\moo\.gradle\caches\transforms-1\files-1.1\facebook-core-4.34.0.aar\e2f81d47a4cb0a2077781cd08614099f\AndroidManifest.xml:46:13-37
+	android:name
+		ADDED from [com.facebook.android:facebook-core:4.34.0] C:\Users\moo\.gradle\caches\transforms-1\files-1.1\facebook-core-4.34.0.aar\e2f81d47a4cb0a2077781cd08614099f\AndroidManifest.xml:45:13-86
+intent-filter#action:name:com.facebook.sdk.ACTION_CURRENT_ACCESS_TOKEN_CHANGED
+ADDED from [com.facebook.android:facebook-core:4.34.0] C:\Users\moo\.gradle\caches\transforms-1\files-1.1\facebook-core-4.34.0.aar\e2f81d47a4cb0a2077781cd08614099f\AndroidManifest.xml:47:13-49:29
+action#com.facebook.sdk.ACTION_CURRENT_ACCESS_TOKEN_CHANGED
+ADDED from [com.facebook.android:facebook-core:4.34.0] C:\Users\moo\.gradle\caches\transforms-1\files-1.1\facebook-core-4.34.0.aar\e2f81d47a4cb0a2077781cd08614099f\AndroidManifest.xml:48:17-95
+	android:name
+		ADDED from [com.facebook.android:facebook-core:4.34.0] C:\Users\moo\.gradle\caches\transforms-1\files-1.1\facebook-core-4.34.0.aar\e2f81d47a4cb0a2077781cd08614099f\AndroidManifest.xml:48:25-92
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:8.3.0] C:\Users\moo\.gradle\caches\transforms-1\files-1.1\play-services-basement-8.3.0.aar\5c7d2862c217f5e45677855b236019fd\AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:8.3.0] C:\Users\moo\.gradle\caches\transforms-1\files-1.1\play-services-basement-8.3.0.aar\5c7d2862c217f5e45677855b236019fd\AndroidManifest.xml:23:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:8.3.0] C:\Users\moo\.gradle\caches\transforms-1\files-1.1\play-services-basement-8.3.0.aar\5c7d2862c217f5e45677855b236019fd\AndroidManifest.xml:22:13-58
